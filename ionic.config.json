@@ -1,0 +1,7 @@
+{
+  "name": "openApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
